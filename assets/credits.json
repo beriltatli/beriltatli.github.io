@@ -1,0 +1,48 @@
+[
+ {
+  "file": "assets/impression-sunrise.jpg",
+  "media": "image",
+  "ref": "commons:23750619",
+  "title": "Impression, Sunrise",
+  "creator": "Claude Monet",
+  "creatorUrl": null,
+  "date": "1872",
+  "license": "public domain",
+  "licenseCode": "pd",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "creditRequired": false,
+  "page": "https://commons.wikimedia.org/wiki/File:Monet_-_Impression,_Sunrise.jpg",
+  "via": "Wikimedia Commons",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Monet_-_Impression%2C_Sunrise.jpg/1920px-Monet_-_Impression%2C_Sunrise.jpg",
+  "width": 1920,
+  "height": 1489,
+  "bytes": 804833,
+  "credit": "\"Impression, Sunrise\" by Claude Monet, public domain, via Wikimedia Commons",
+  "notes": [],
+  "saved": "2026-10-27T19:47:08.819Z"
+ },
+ {
+  "file": "assets/canakkale-town-seafront-aka-kordon-in-2006.jpg",
+  "media": "image",
+  "ref": "commons:152767912",
+  "title": "Çanakkale town Seafront aka Kordon in 2006 2777",
+  "creator": "Dosseman",
+  "creatorUrl": null,
+  "date": "2006-12-14",
+  "license": "CC BY-SA 4.0",
+  "licenseCode": "by-sa",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "creditRequired": true,
+  "page": "https://commons.wikimedia.org/wiki/File:%C3%87anakkale_town_Seafront_aka_Kordon_in_2006_2777.jpg",
+  "via": "Wikimedia Commons",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/%C3%87anakkale_town_Seafront_aka_Kordon_in_2006_2777.jpg/1920px-%C3%87anakkale_town_Seafront_aka_Kordon_in_2006_2777.jpg",
+  "width": 1920,
+  "height": 1275,
+  "bytes": 647468,
+  "credit": "\"Çanakkale town Seafront aka Kordon in 2006 2777\" by Dosseman, CC BY-SA 4.0, via Wikimedia Commons",
+  "notes": [
+   "Share-alike: an altered version (recoloured, combined with other pictures) must be shared under the same licence."
+  ],
+  "saved": "2026-10-27T19:49:11.810Z"
+ }
+]
